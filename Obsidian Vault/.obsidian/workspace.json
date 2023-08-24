@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "35ef03946397769a",
+    "type": "split",
+    "children": [
+      {
+        "id": "587eadfb21b303ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f034baf60cd8f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCE 3110/Mathematical Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db5b4ae674e78e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddacbd6911314a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd4dc5f5e0219614",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "152056fcf3161ba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "082092941bf1cf5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f90cdf2a569ad14",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a458fbeca563ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a4ab43ddd14356",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSCE 3110/Mathematical Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bda75c708dc6edf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSCE 3110/Mathematical Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e7daad10971b1b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d18959c835204c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSCE 3110/Mathematical Analysis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd4dc5f5e0219614",
+  "lastOpenFiles": [
+    "Fall-2023-Notes",
+    "CSCE 3110/Empirical Tests.md",
+    "CSCE 3110/Asymptotic Analysis 8-24-23.md",
+    "CSCE 2610/8-24-23 Computer Abstractions and Technology.md",
+    "CSCE 3110/Mathematical Analysis.md",
+    "CSCE 3110/Pasted image 20230824132857.png",
+    "CSCE 3110/Pasted image 20230824132839.png",
+    "CSCE 3110/Pasted image 20230824132731.png",
+    "Pasted image 20230824132613.png",
+    "Pasted image 20230824132704.png",
+    "CSCE 3110",
+    "CSCE 3600/CSCE 3600 8-21-23.md",
+    "CSCE 2610",
+    "CSCE 3600"
+  ]
+}
