@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCE 3110/Mathematical Analysis.md",
+                "file": "CSCE 3110/Asymptotic Analysis 8-24-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCE 3110/Mathematical Analysis.md",
+                "file": "CSCE 3110/Asymptotic Analysis 8-24-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCE 3110/Mathematical Analysis.md",
+                "file": "CSCE 3110/Asymptotic Analysis 8-24-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCE 3110/Mathematical Analysis.md"
+                "file": "CSCE 3110/Asymptotic Analysis 8-24-23.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd4dc5f5e0219614",
+  "active": "0f034baf60cd8f78",
   "lastOpenFiles": [
+    "Pasted image 20230824141441.png",
+    "Pasted image 20230824141409.png",
+    "Pasted image 20230824141329.png",
+    "CSCE 3110/Pasted image 20230824135627.png",
+    "CSCE 3110/Mathematical Analysis.md",
     "Fall-2023-Notes",
     "CSCE 3110/Empirical Tests.md",
     "CSCE 3110/Asymptotic Analysis 8-24-23.md",
     "CSCE 2610/8-24-23 Computer Abstractions and Technology.md",
-    "CSCE 3110/Mathematical Analysis.md",
     "CSCE 3110/Pasted image 20230824132857.png",
     "CSCE 3110/Pasted image 20230824132839.png",
     "CSCE 3110/Pasted image 20230824132731.png",
